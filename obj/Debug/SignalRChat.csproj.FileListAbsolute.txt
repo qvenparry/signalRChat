@@ -1,0 +1,411 @@
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalRChat\SignalRChat\bin\SignalRChat.dll.config
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalRChat\SignalRChat\bin\SignalRChat.dll
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalRChat\SignalRChat\bin\SignalRChat.pdb
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalRChat\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalRChat\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalRChat\SignalRChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalRChat\SignalRChat\bin\Microsoft.Owin.dll
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalRChat\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalRChat\SignalRChat\bin\Microsoft.Owin.Security.dll
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalRChat\SignalRChat\bin\Newtonsoft.Json.dll
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalRChat\SignalRChat\bin\Owin.dll
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalRChat\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalRChat\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalRChat\SignalRChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalRChat\SignalRChat\bin\Microsoft.Owin.xml
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalRChat\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalRChat\SignalRChat\bin\Microsoft.Owin.Security.xml
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalRChat\SignalRChat\bin\Newtonsoft.Json.xml
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalRChat\SignalRChat\obj\Debug\SignalRChat.csproj.CoreCompileInputs.cache
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalRChat\SignalRChat\obj\Debug\SignalRChat.dll
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalRChat\SignalRChat\obj\Debug\SignalRChat.pdb
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalR Chat App\SignalRChat\obj\Debug\SignalRChat.csproj.CoreCompileInputs.cache
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalR Chat App\SignalRChat\bin\SignalRChat.dll.config
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalR Chat App\SignalRChat\bin\SignalRChat.dll
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalR Chat App\SignalRChat\bin\SignalRChat.pdb
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalR Chat App\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalR Chat App\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalR Chat App\SignalRChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalR Chat App\SignalRChat\bin\Microsoft.Owin.dll
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalR Chat App\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalR Chat App\SignalRChat\bin\Microsoft.Owin.Security.dll
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalR Chat App\SignalRChat\bin\Newtonsoft.Json.dll
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalR Chat App\SignalRChat\bin\Owin.dll
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalR Chat App\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalR Chat App\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalR Chat App\SignalRChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalR Chat App\SignalRChat\bin\Microsoft.Owin.xml
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalR Chat App\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalR Chat App\SignalRChat\bin\Microsoft.Owin.Security.xml
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalR Chat App\SignalRChat\bin\Newtonsoft.Json.xml
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalR Chat App\SignalRChat\obj\Debug\SignalRChat.dll
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalR Chat App\SignalRChat\obj\Debug\SignalRChat.pdb
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalR Chat App\SignalRChat\obj\Debug\SignalRChat.csprojResolveAssemblyReference.cache
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\SignalRChat.dll.config
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\SignalRChat.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\SignalRChat.pdb
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.Owin.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.Owin.Security.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Newtonsoft.Json.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Owin.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.Owin.xml
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.Owin.Security.xml
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Newtonsoft.Json.xml
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\obj\Debug\SignalRChat.csprojAssemblyReference.cache
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\obj\Debug\SignalRChat.csproj.CoreCompileInputs.cache
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\obj\Debug\SignalRChat.csproj.CopyComplete
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\obj\Debug\SignalRChat.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\obj\Debug\SignalRChat.pdb
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\netstandard.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.AppContext.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Collections.Concurrent.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Collections.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Collections.NonGeneric.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Collections.Specialized.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.ComponentModel.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.ComponentModel.Primitives.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Console.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Data.Common.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Diagnostics.Contracts.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Diagnostics.Debug.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Diagnostics.Process.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Diagnostics.Tools.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Diagnostics.Tracing.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Drawing.Primitives.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Dynamic.Runtime.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Globalization.Calendars.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Globalization.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Globalization.Extensions.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.IO.Compression.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.IO.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.IO.FileSystem.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.IO.IsolatedStorage.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.IO.Pipes.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Linq.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Linq.Expressions.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Linq.Parallel.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Linq.Queryable.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Net.Http.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Net.NameResolution.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Net.NetworkInformation.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Net.Ping.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Net.Primitives.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Net.Requests.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Net.Security.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Net.Sockets.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Net.WebSockets.Client.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Net.WebSockets.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.ObjectModel.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Reflection.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Reflection.Extensions.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Reflection.Primitives.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Resources.Reader.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Resources.ResourceManager.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Resources.Writer.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Runtime.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Runtime.Extensions.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Runtime.Handles.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Runtime.InteropServices.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Runtime.Numerics.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Security.Claims.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Security.Principal.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Security.SecureString.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Text.Encoding.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Text.RegularExpressions.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Threading.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Threading.Overlapped.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Threading.Tasks.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Threading.Thread.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Threading.ThreadPool.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Threading.Timer.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.ValueTuple.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Xml.ReaderWriter.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Xml.XDocument.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Xml.XmlDocument.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Xml.XmlSerializer.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Xml.XPath.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.Bot.Builder.CognitiveServices.LuisActionBinding.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.Bot.Builder.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.Bot.Connector.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.Bot.Schema.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.Extensions.Options.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Buffers.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Memory.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Numerics.Vectors.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.Bot.Builder.pdb
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.Bot.Builder.xml
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.Bot.Builder.CognitiveServices.LuisActionBinding.xml
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.xml
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.Bot.Connector.pdb
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.Bot.Connector.xml
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.Bot.Schema.pdb
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.Bot.Schema.xml
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.Extensions.Options.xml
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Buffers.xml
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Memory.xml
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Numerics.Vectors.xml
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\ar\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\cs\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\de-dE\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\en\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\es\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\fa\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\fr\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\ja\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\Karen\Desktop\SignalRChat\SignalRChat\bin\zh-hans\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\SignalRChat.dll.config
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\SignalRChat.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\SignalRChat.pdb
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.Win32.Primitives.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\netstandard.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.AppContext.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Collections.Concurrent.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Collections.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Collections.NonGeneric.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Collections.Specialized.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.ComponentModel.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.ComponentModel.Primitives.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Console.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Data.Common.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Diagnostics.Contracts.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Diagnostics.Debug.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Diagnostics.Process.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Diagnostics.StackTrace.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Diagnostics.Tools.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Diagnostics.TraceSource.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Diagnostics.Tracing.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Drawing.Primitives.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Dynamic.Runtime.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Globalization.Calendars.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Globalization.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Globalization.Extensions.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.IO.Compression.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.IO.Compression.ZipFile.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.IO.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.IO.FileSystem.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.IO.IsolatedStorage.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.IO.Pipes.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Linq.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Linq.Expressions.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Linq.Parallel.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Linq.Queryable.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Net.Http.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Net.NameResolution.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Net.NetworkInformation.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Net.Ping.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Net.Primitives.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Net.Requests.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Net.Security.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Net.Sockets.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Net.WebHeaderCollection.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Net.WebSockets.Client.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Net.WebSockets.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.ObjectModel.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Reflection.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Reflection.Extensions.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Reflection.Primitives.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Resources.Reader.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Resources.ResourceManager.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Resources.Writer.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Runtime.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Runtime.Extensions.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Runtime.Handles.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Runtime.InteropServices.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Runtime.Numerics.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Runtime.Serialization.Json.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Security.Claims.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Security.Cryptography.Csp.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Security.Principal.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Security.SecureString.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Text.Encoding.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Text.Encoding.Extensions.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Text.RegularExpressions.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Threading.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Threading.Overlapped.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Threading.Tasks.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Threading.Thread.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Threading.ThreadPool.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Threading.Timer.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.ValueTuple.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Xml.ReaderWriter.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Xml.XDocument.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Xml.XmlDocument.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Xml.XmlSerializer.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Xml.XPath.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Xml.XPath.XDocument.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.Bot.Builder.CognitiveServices.LuisActionBinding.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.Bot.Builder.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.Bot.Connector.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.Bot.Schema.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.Extensions.Logging.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.Extensions.Options.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.Owin.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.Owin.Security.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Newtonsoft.Json.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Owin.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Buffers.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Memory.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Numerics.Vectors.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.Bot.Builder.pdb
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.Bot.Builder.xml
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.Bot.Builder.CognitiveServices.LuisActionBinding.xml
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.xml
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.Bot.Connector.pdb
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.Bot.Connector.xml
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.Bot.Schema.pdb
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.Bot.Schema.xml
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.Extensions.Logging.xml
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.Extensions.Options.xml
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.Owin.xml
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.Owin.Security.xml
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\Newtonsoft.Json.xml
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Buffers.xml
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Memory.xml
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Numerics.Vectors.xml
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\ar\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\cs\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\de-dE\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\en\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\es\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\fa\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\fr\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\ja\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\bin\zh-hans\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\obj\Debug\SignalRChat.csprojAssemblyReference.cache
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\obj\Debug\SignalRChat.csproj.CoreCompileInputs.cache
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\obj\Debug\SignalRChat.csproj.CopyComplete
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\obj\Debug\SignalRChat.dll
+C:\Users\gesha\source\repos\ChatSignalR\SignalRChat\obj\Debug\SignalRChat.pdb
